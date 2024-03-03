@@ -30,4 +30,5 @@ Personalized Experience: Customize your learning journey with personalized visua
 Accessible Anywhere: Access CodeViz on the web or through mobile apps, ensuring flexibility and convenience.
 
 # Video Demo
-[![Video Title](https://www.example.com/video_thumbnail.jpg)](https://drive.google.com/file/d/1pAPQsEmKPwQQqmCihoWX8z3pWR91gM4F/view?usp=drivesdk)
+https://drive.google.com/file/d/1pAPQsEmKPwQQqmCihoWX8z3pWR91gM4F/view?usp=drivesdk
+
